@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn JS Basics with 30 days/02. 2620. Counter.md",
+                "file": "Learn JS Basics with 30 days/01. 2667. Create Hello World Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. 2620. Counter"
+              "title": "01. 2667. Create Hello World Function"
             }
           }
         ],
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn JS Basics with 30 days/02. 2620. Counter.md",
+                "file": "Learn JS Basics with 30 days/01. 2667. Create Hello World Function.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 02. 2620. Counter"
+              "title": "Sumário de 01. 2667. Create Hello World Function"
             }
           },
           {
@@ -197,8 +197,8 @@
   },
   "active": "703729a98519fcce",
   "lastOpenFiles": [
-    "Learn JS Basics with 30 days/05. 2635. Apply Transform Over Each Element in Array.md",
     "Learn JS Basics with 30 days/02. 2620. Counter.md",
+    "Learn JS Basics with 30 days/05. 2635. Apply Transform Over Each Element in Array.md",
     "Learn JS Basics with 30 days/01. 2667. Create Hello World Function.md",
     "README.md",
     "Learn JS Basics with 30 days/04. 2665. Contador II.md",
